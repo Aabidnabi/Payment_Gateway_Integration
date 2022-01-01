@@ -87,7 +87,7 @@ logo {
 }
 
 .banner-area .overlay-bg {
-	opacity: .5;
+	opacity: 5;
 	background-color: #000;
 }
 
@@ -110,7 +110,7 @@ logo {
 
 .banner-content h1 {
 	color: #fff;
-	font-size: 72px;
+	font-size: 42px;
 	font-weight: 700;
 	line-height: 1.15em;
 	margin-bottom: 30px;
@@ -188,7 +188,7 @@ h1 {
 
 .donate-area .header-text h1 {
 	color: #fff;
-	margin-bottom: 25px;
+	margin-bottom: 20px;
 }
 
 .donate-area .overlay-bg {
