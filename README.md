@@ -1,4 +1,4 @@
-# Payment-Gateway-Integration
+# Payment-Gateway-Integration System
 This is a simple project that demonstrates payment gateway integration into a HTML/CSS based webpage. (only test mode enabled)
 
 - The webpage is designed using HTML and CSS. The payment integration is done using razorpay
