@@ -224,6 +224,11 @@ form {
 .section-gap {
 	padding: 120px 0;
 }
+.button-primary{
+	color: crimson; background-color: darkkhaki;
+	font-size: 20px;
+	border-radius: 3px;
+}
 .footer-menu {
 	margin-bottom: 30px;
 }
